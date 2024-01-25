@@ -1,0 +1,1 @@
+Hallo das ist mein erster Text im meinem ersten git repository.
